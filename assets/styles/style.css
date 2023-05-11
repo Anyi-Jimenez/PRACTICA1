@@ -1,0 +1,29 @@
+body{
+    background-color: rgb(94, 144, 132);
+    text-align: center;
+}
+
+.headings{
+    background-color: rgb(194, 33, 212);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size:xx-large;
+    text-decoration: underline;
+}
+
+.headingsperros{
+    background-color: crimson;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-top: 100px;
+    letter-spacing: 5px;
+
+}
+
+.parrafoperros{
+background-color: aliceblue;
+font-family: cursive;
+border: 10px;
+border-color: black;
+border-style: solid;
+
+
+}
